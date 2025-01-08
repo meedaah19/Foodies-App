@@ -25,25 +25,25 @@ export default function Home() {
         <section className={classes.section}>
           <h2>How it works</h2>
           <p>
-          Abike's Food is a platform for foodies to share their favorite
+          Abike&apos;s Food is a platform for foodies to share their favorite
             recipes with the world. It&apos;s a place to discover new dishes, and to
             connect with other food lovers.
           </p>
           <p>
-          Abike's Food is a place to discover new dishes, and to connect
+          Abike&apos;s Food is a place to discover new dishes, and to connect
             with other food lovers.
           </p>
         </section>
 
         <section className={classes.section}>
-          <h2>Why Abike's Food</h2>
+          <h2>Why Abike&apos;s Food</h2>
           <p>
-          Abike's Food is a platform for foodies to share their favorite
+            Abike&apos;s Food is a platform for foodies to share their favorite
             recipes with the world. It&apos;s a place to discover new dishes, and to
             connect with other food lovers.
           </p>
           <p>
-          Abike's Food is a place to discover new dishes, and to connect
+          Abike&apos;s Food is a place to discover new dishes, and to connect
             with other food lovers.
           </p>
         </section>
